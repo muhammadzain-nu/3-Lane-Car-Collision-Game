@@ -1,4 +1,4 @@
-#include <graphics.h>
+#include <graphics.h>// uses graphic file
 #include <conio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -275,4 +275,5 @@ int main() {
     }
     return 0;
 }
+
 
